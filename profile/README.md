@@ -24,6 +24,9 @@
     <a href="https://github.com/Dit23/Website-for-school">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dit23&repo=Website-for-school&theme=react&bg_color=1F222E&title_color=bd313c&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Projekt2">
     </a>
+    <a href="https://github.com/Dit23/Learniverse">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dit23&repo=Learniverse&theme=react&bg_color=1F222E&title_color=bd313c&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Lerniverse">
+    </a>
     <a href="https://github.com/Dit23/Biedergramm">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dit23&repo=Biedergramm&theme=react&bg_color=1F222E&title_color=bd313c&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Projekt3">
     </a>
